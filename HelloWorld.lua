@@ -1,4 +1,4 @@
---[[Hello World
+--Hello World
 
 print ("Hello World")
 
@@ -46,7 +46,7 @@ File : close()
 File = io.open(filename, "r")
 local lines = File :  read("*all")
 File : close()
-print(lines)]]--
+print(lines)
 
 -- network I/O
 
